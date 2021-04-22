@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk-14.0.2">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v8.5">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/tomcat/lib/el-api.jar"/>
+	<classpathentry kind="lib" path="C:/tomcat/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/tomcat/lib/jsp-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/정혜진/OneDrive/바탕화~1-DESKTOP-60G0NK7-5282/자르 폴더 정리/파일 업로드/cos-20.08/lib/cos.jar"/>
+	<classpathentry kind="lib" path="C:/Users/정혜진/OneDrive/바탕화~1-DESKTOP-60G0NK7-5282/자르 폴더 정리/db와 자바 연결/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/정혜진/OneDrive/바탕화~1-DESKTOP-60G0NK7-5282/자르 폴더 정리/customtag/jstl-1.2 (1).jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
